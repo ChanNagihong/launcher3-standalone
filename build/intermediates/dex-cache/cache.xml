@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/channagihong/.android/build-cache/29e90e0329dff094fc9d592bb0619f146c0d260b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="672cceae26e9a8fcbd8e0eefe5fc351c50d2488a">
+        <dex dex="/Users/channagihong/Codes/GitCode/coding/Launcher3-standalone/app/build/intermediates/pre-dexed/debug/classes_b136145be3906d1c632203e7aa45598c04dde3d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/channagihong/.gradle/caches/modules-2/files-2.1/com.google.protobuf.nano/protobuf-javanano/3.2.0rc2/ea3a065533328f1a5852c508e07d65d656ecacb4/protobuf-javanano-3.2.0rc2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ea3a065533328f1a5852c508e07d65d656ecacb4">
+        <dex dex="/Users/channagihong/Codes/GitCode/coding/Launcher3-standalone/app/build/intermediates/pre-dexed/debug/protobuf-javanano-3.2.0rc2_350846653be3172f9260715e1faed56c9d4f6fae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/channagihong/.android/build-cache/3e0f91b1ea56acb0b12b3e1d6bc489d0497956db/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/Users/channagihong/Codes/GitCode/coding/Launcher3-standalone/app/build/intermediates/pre-dexed/debug/classes_21327315e5ef6402319098fd394bee4f6b96b0a9.jar" />
+    </item>
+
+</items>
